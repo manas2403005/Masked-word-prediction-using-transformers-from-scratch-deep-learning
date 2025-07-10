@@ -1,9 +1,5 @@
 # Masked-word-prediction-using-transformers-from-scratch-deep-learning
-Certainly! Here's the refined `README.md` version **without emojis**, structured and professional for your GitHub repository:
 
----
-
-# Masked Word Prediction using Transformer (from Scratch)
 
 This project implements a masked word prediction model entirely from scratch using a Transformer-based architecture. Starting with LSTM and BiLSTM models, we transitioned to Transformers for improved performance. Evaluation was done using both semantic similarity and sentence fluency metrics, all without relying on pre-trained models for prediction.
 
@@ -85,5 +81,4 @@ This project demonstrates that with careful architecture design and optimization
 
 ---
 
-Let me know if you'd like me to include sections like installation, usage, or results visualization.
 
